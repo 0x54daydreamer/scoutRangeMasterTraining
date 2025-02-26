@@ -1,0 +1,63 @@
+{
+    "title": "Quiz about Foo",
+    "questions": [{
+            "text": "Always keep the gun unloaded untill ready to use?",
+            "type": "tf",
+            "answer": "t"
+        },
+        {
+            "text": "Always keep your finger off the trigger, untill you are ready to shoot, is the primary rule of gun safety?",
+            "type": "tf",
+            "answer": "f"
+        },
+        {
+            "text": "Crude, primitive devices that were very accurate and supported the idea of a gun?",
+            "type": "mc",
+            "answers": [
+                "Bow and Arrows",
+                "Sling Shot",
+                "BIG ROCKS",
+                "BlowGun"
+            ],
+            "answer": "BlowGun"
+        },
+        {
+            "text": "Which King was the first pump-air gun created for?",
+            "type": "mc",
+            "answers": [
+                "Trump II",
+                "King George III",
+                "Henry IV"
+            ],
+            "answer": "Henry IV"
+        },
+        {
+            "text": "What is the end of the stock, near the shoulder called(when shooting)?",
+            "type": "mc",
+            "answers": [
+                "Rest Point",
+                "BUTT",
+                "Muzzle"
+            ],
+            "answer": "BUTT"
+        },
+        {
+            "text": "How many different sets of BB gun targets are there for the 5 ranks of cub scouts? ",
+            "type": "mc",
+            "answers": [
+                "5",
+                "4",
+                "3",
+                "2",
+                "1"
+            ],
+            "answer": "3"
+        },
+        {
+            "text": "The safety mechanism should not be engaged when storing the BB gun for maintenance.",
+            "type": "tf",
+            "answer": "f"
+        }
+
+    ]
+}
