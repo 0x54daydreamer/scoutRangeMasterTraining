@@ -133,7 +133,7 @@ function onTabClick(e) {
         
       </div>
       <!-- Tab Panels -->
-      <div id="panels" class="container mx-auto">
+      <div id="panels" class="container mx-auto flex justify-center">
           <keep-alive>
             <component :is="selectedPanel" />
           </keep-alive>
