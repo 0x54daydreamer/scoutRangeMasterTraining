@@ -130,13 +130,14 @@ function onTabClick(e) {
 
         </div>
 
-        <!-- Tab Panels -->
-        <div id="panels" class="container mx-auto">
+        
+      </div>
+      <!-- Tab Panels -->
+      <div id="panels" class="container mx-auto">
           <keep-alive>
             <component :is="selectedPanel" />
           </keep-alive>
         </div>
-      </div>
       </div>
     </section>
 </template>
